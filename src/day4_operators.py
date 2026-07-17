@@ -42,7 +42,7 @@ print(value3)
 
 '''
 
-
+#Profit Calculator
 #profit report input 
 product = input("Product: ")
 sell_price = int(input("Selling Price: "))
@@ -61,7 +61,7 @@ print(f"Cost Price: {cost_price}")
 print(f"Quantity: {quantity}")
 print(f"Profit Per Item: {profit_per_item}")
 print(f"Total Profit: {profit_total}")
-print(f"Profit Percentage: {profit_percentage}%")
+print(f"Profit Percentage: {profit_percentage:.2f}%")
 print("===============================================")
 
 
