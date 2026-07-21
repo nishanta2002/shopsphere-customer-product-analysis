@@ -11,7 +11,7 @@ print("="*10," ShopSphere Discount ", "="*10)
 print(f"Customer : {cname}")
 print(f"Membership : {membtype}")
 print(f"Purchase Amount : ₹{amount}")
-
+2062061
 
 
 #if else 
