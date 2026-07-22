@@ -11,7 +11,7 @@ n = 1
 while n <= 5:
     print("Hello ShopSphere")
     n += 1
-'''
+
 # prog 3
 
 n = 1
@@ -24,3 +24,4 @@ while n <= 20:
     print(f"{n} {b}")
     n += 1
 print("Finished")
+'''
